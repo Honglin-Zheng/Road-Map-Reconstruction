@@ -1,0 +1,1 @@
+This is a project to reconstruct the road map of Bay area from the Uber travel dataset. It utilizes the Delaunary Triangulation Algorithm and highlights the reomval of fake bridges across the bay by setting a specific threshold to the travel time.
